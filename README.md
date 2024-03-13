@@ -36,7 +36,7 @@
 
 ***感谢上海人工智能实验室推出的书生·浦语大模型实战营，为我们的项目提供宝贵的技术指导和强大的算力支持！***
 
-[**InternLM**](https://github.com/InternLM/InternLM)、[**InternStudio**](https://studio.intern-ai.org.cn/)
+[**InternLM-tutorial**](https://github.com/InternLM/tutorial)、[**InternStudio**](https://studio.intern-ai.org.cn/)
 
 </a>
 
