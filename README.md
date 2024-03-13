@@ -30,7 +30,6 @@
 ## 致谢
  
 感谢上海人工智能实验室推出的书生·浦语大模型实战营，为我们的项目提供宝贵的技术支持和强大的算力支持！
-
 [**InternLM-tutorial**](https://github.com/InternLM/tutorial)、[**InternStudio**](https://studio.intern-ai.org.cn/)、[**xtuner**](https://github.com/InternLM/xtuner)
 
 </a>
