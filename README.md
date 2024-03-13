@@ -27,18 +27,11 @@
 | 辅导业务 |  |
 
 
-## 其他
-<div align="center">
+## 致谢
+ 
+感谢上海人工智能实验室组织为我们的项目提供支持！
 
-***感谢 上海人工智能实验室 组织的 书生·浦语实战营 学习活动~***
-
-***感谢 OpenXLab 对项目部署的算力支持~***
-
-***感谢 浦语小助手 对项目的支持~***
-
-***感谢 上海人工智能实验室推出的书生·浦语大模型实战营 为我们的项目提供宝贵的技术指导和强大的算力支持！***
-
-[**InternLM-tutorial**](https://github.com/InternLM/tutorial)、[**InternStudio**](https://studio.intern-ai.org.cn/)、[**xtuner**](https://github.com/InternLM/xtuner)
+[**InternLM-tutorial**](https://github.com/InternLM/tutorial)、[**InternStudio**](https://studio.intern-ai.org.cn/)
 
 </a>
 
